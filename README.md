@@ -13,7 +13,7 @@ Its cheap and there are drawbacks to this setup which you can read more about at
 I have done a 3 part blog series on this:
 1. Testing simple test LORA communication between 2 nodes using these cheap modules: https://amoghdesai.com/uncategorized/cheapest-lora-transceiver-with-the-llcc68-and-esp32%e2%80%91c3-supermini-plus/
 
-[Also did a YoutTube video on this](https://www.youtube.com/watch?v=OFPbiupgmm0)
+   Also did a YoutTube video on this. [Watch it here](https://www.youtube.com/watch?v=OFPbiupgmm0)
 
 2. More about Pro and Cons of the llcc68 module, what works and what not: https://amoghdesai.com/uncategorized/does-meshtastic-support-llcc68/
 
