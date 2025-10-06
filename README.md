@@ -17,6 +17,6 @@ I have done a 3 part blog series on this:
 
 2. More about Pro and Cons of the llcc68 module, what works and what not: https://amoghdesai.com/uncategorized/does-meshtastic-support-llcc68/
 
-3. How to use this Repo, how to build the firmware, how to flash the firmware and testing the 2 Mshtastic Nodes: https://amoghdesai.com/ (yet to publish)
+3. How to use this Repo, how to build the firmware, how to flash the firmware and testing the 2 Mshtastic Nodes: https://amoghdesai.com/technology/how-to-build-and-use-meshtastic-firmware-for-esp32-c3-supermini-and-llcc68-rf-module/
 
 
